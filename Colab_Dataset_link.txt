@@ -1,0 +1,5 @@
+https://colab.research.google.com/drive/1W26vr8v3Ztt0djHGq1_AO4gntbdEWjPM#scrollTo=A0vKwP8StYGv
+
+Dataset link:
+
+https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization?resource=download
