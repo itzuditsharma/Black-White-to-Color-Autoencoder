@@ -30,7 +30,16 @@ Decoder: Transposed convolution layers that reconstruct the colorized image from
 
 When a grayscale image is uploaded, the model predicts and displays a colorized version side-by-side.
 
-Future Improvements
+![image](https://github.com/user-attachments/assets/77ca2aa4-1bd8-43df-85da-b538d3a1554d)
+
+
+![image](https://github.com/user-attachments/assets/79e18caf-86bb-4bce-92e3-d1ceb1b9b835)
+
+![image](https://github.com/user-attachments/assets/04d955a6-0195-4f02-a81a-c2a05fd59d26)
+
+
+
+# Future Improvements
 
 Train on a larger dataset for better colorization quality.
 
